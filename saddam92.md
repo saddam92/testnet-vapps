@@ -1,4 +1,4 @@
-# vApp Submission: [Your Project Name]
+# vApp Submission: ZK Word Battles (gaming)
 
 ## Verification
 ```yaml
@@ -8,19 +8,19 @@ timestamp: "2025-01-15"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
+- **Name**: MD MILON HOSSAIN
+- **GitHub**: @saddam92
+- **Discord**: mdmilon#7991
 - **Experience**: Brief background
 
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
-- **Category**: identity/defi/social/gaming/infrastructure/other
+- **Project**: ZK Word Battles (gaming)
+- **Category**: submissions/gaming/saddam92.md
 
 ### Description
-What problem does your vApp solve? What does it do?
+ZK Word Battles is a daily head-to-head word game where players prove they solved a puzzle *without revealing the answer*. Zero-knowledge (ZK) proofs attest to valid gameplay; Soundness Layer (SL) verifies those proofs quickly and cheaply, so leaderboards can’t be cheated.
 
 ### SL Integration  
 How will you use Soundness Layer? What specific SL features?
